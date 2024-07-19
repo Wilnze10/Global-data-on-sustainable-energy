@@ -1,4 +1,4 @@
-### Data - Global data on sustainable energy with 3650 rows covering the 21 years years from 2000 to 2020.
+### Dataset - Global data on sustainable energy with 3650 rows covering the 21 years years from 2000 to 2020.
 ### Data cleaning and analysis - Pandas and Numpy 
 ### Data Visualization - Seaborn and Matplotlib
 ### The following insights were drawn from the analysis:
